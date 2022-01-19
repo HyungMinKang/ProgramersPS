@@ -1,5 +1,5 @@
-# WEEK3 알고리즘
-## 필수 문제1  크레인 인형뽑기 게임
+
+## 크레인 인형뽑기 게임
 https://programmers.co.kr/learn/courses/30/lessons/64061
 
 ### 문제이해
@@ -17,7 +17,7 @@ https://programmers.co.kr/learn/courses/30/lessons/64061
 + 같다면, stack에서 pop()을 하고, answer에 2를 더해줌
 + 같지 않다면, stack에 가져온 인형 push
 
-## 필수 문제2 모의고사
+##  모의고사
 https://programmers.co.kr/learn/courses/30/lessons/42840
 ### 문제이해
 + answer: 문제의 정답을 담고 있는 배열
@@ -34,7 +34,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42840
 + solCount를 순회하며 max값과 같은 문제를 맞춘 수포자의 인덱스를 결과 배열리스트에 담음(add를 하면 자동으로 ascending order가 됨)
 
 
-## 선택 문제1 이상한 문자 만들기
+## 이상한 문자 만들기
 https://programmers.co.kr/learn/courses/30/lessons/12930
 ### 문제이해
 + String s: 여러 단어를 담고있는 문자열
@@ -49,7 +49,7 @@ https://programmers.co.kr/learn/courses/30/lessons/12930
 +  word들을 모두 변환후, word들을 jointToString(" ")을 통해 공백을 두고 합치기
 
 
-## 선택 문제2 K번째수
+# K번째수
 https://programmers.co.kr/learn/courses/30/lessons/42748
 ### 문제이해
 + commands: 배열 자를 시작 위치, 끝 위치,  정렬한 뒤 가져올 인덱스를 순서대로 담고있는 배열을 담고 있는 2차원 배열
